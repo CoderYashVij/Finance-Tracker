@@ -42,7 +42,7 @@ Secure JWT authentication ensures user privacy and data integrity, making FÃ¬NTâ
      - `GOOGLE_PASS`: 12-Digit Password for the email ID (For generating refer-https://support.google.com/accounts/answer/185833?hl=en#:~:text=To%20help%20keep%20your%20account,2%2DStep%20Verification%20turned%20on)
    - Example:
      ```
-     MONGO_URI="mongodb://127.0.0.1:27017/notesapp"
+     MONGO_URI="mongodb://127.0.0.1:27017/mydatabase"
      JWT_SECRET="secretcode"
      GOOGLE_ID="youremailid@example.com"
      GOOGLE_PASS="xxxxxxxxxxxx"
